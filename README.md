@@ -37,4 +37,4 @@ python demo/app_janus4o.py
 ```
 
 ## 👍 Acknowledgement
-This project wouldn't be possible without the following open-sourced repositories: [Janus](https://github.com/deepseek-ai/Janus), [ImgEdit](https://github.com/PKU-YuanGroup/ImgEdit), [UltraEdit](https://github.com/HaozheZhao/UltraEdit), [ELLA](https://github.com/TencentQQGYLab/ELLA), [GenEval](https://github.com/djghosh13/geneval).
+We greatly appreciate the following open-sourced repositories for providing us with valuable insights and tools: [Janus](https://github.com/deepseek-ai/Janus), [ImgEdit](https://github.com/PKU-YuanGroup/ImgEdit), [UltraEdit](https://github.com/HaozheZhao/UltraEdit), [ELLA](https://github.com/TencentQQGYLab/ELLA), [GenEval](https://github.com/djghosh13/geneval).
