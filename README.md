@@ -1,4 +1,4 @@
-# ShareGPT-4o-Image, : Aligning Multimodal Models with GPT-4o-Level Image Generation
+# ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation
 
 <!--
 <p align="center">
