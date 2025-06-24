@@ -325,7 +325,7 @@ Coming Soon.
 
 ## Citation
 ```
-@misc{chen2025sharegpt4o,
+@misc{chen2025sharegpt4oimg,
       title={ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation}, 
       author={Junying Chen and Zhenyang Cai and Pengcheng Chen and Shunian Chen and Ke Ji and Xidong Wang and Yunjin Yang and Benyou Wang},
       year={2025},
