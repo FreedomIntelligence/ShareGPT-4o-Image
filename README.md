@@ -39,7 +39,7 @@
 > 🔗 Dataset on Hugging Face: [FreedomIntelligence/ShareGPT-4o-Image](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image)
 
 ## 🎨 Janus-4o Model
-**Janus-4o** is a multimodal LLM capable of both text-to-image and text-and-image-to-image generation. It is fine-tuned from Janus-Pro using the [ShareGPT-4o-Image](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image) dataset. Compared to Janus-Pro, anus-4o **newly supports text-and-image-to-image generation capabilities**, along with notable improvements in text-to-image generation.
+**Janus-4o** is a multimodal LLM capable of both text-to-image and text-and-image-to-image generation. It is fine-tuned from Janus-Pro using the [ShareGPT-4o-Image](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image) dataset. Compared to Janus-Pro, Janus-4o **newly supports text-and-image-to-image generation capabilities**, along with notable improvements in text-to-image generation.
 
 
 #### Model Access
