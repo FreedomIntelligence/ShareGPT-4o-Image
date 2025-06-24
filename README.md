@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-📃 <a href="https://github.com/FreedomIntelligence/ShareGPT-4o-Image" target="_blank">Paper</a> | 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image" target="_blank">ShareGPT-4o-Image</a> ｜🤗 <a href="https://huggingface.co/FreedomIntelligence/Janus-4o-7B" target="_blank">Janus-4o-7B</a>
+📃 <a href="https://arxiv.org/abs/2506.18095" target="_blank">Paper</a> | 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image" target="_blank">ShareGPT-4o-Image</a> ｜🤗 <a href="https://huggingface.co/FreedomIntelligence/Janus-4o-7B" target="_blank">Janus-4o-7B</a>
 </p>
 
 ## ⚡ Introduction
