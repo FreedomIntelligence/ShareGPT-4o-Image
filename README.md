@@ -321,9 +321,24 @@ text_and_image_to_image_generate(prompt, input_image_path, image_output_path, vl
 </details>
 
 
+## 🏋️‍♂️ Model Training
 
-### 🏋️‍♂️ Model Training
-Coming Soon.
+We provide the code so you can train **Janus-Pro on ShareGPT-4o-Image** to reproduce **Janus-4o**. The training supports both **text-to-image** and **image-text-to-image** generation. Please run the following command:
+
+```shell
+accelerate launch --config_file configs/sft.yaml \
+    --num_processes 8  \
+    --num_machines 1 \
+    --machine_rank 0 \
+    --deepspeed_multinode_launcher standard train_janus.py \
+    --model_path deepseek-ai/Janus-Pro-7B \
+    --data_path [FreedomIntelligence/ShareGPT-4o-Image] \
+    --n_epochs 3 \
+    --train_bsz_per_gpu 1 \
+    --learning_rate 5e-6 \
+    --gradient_accumulation_steps 8
+```
+
 
 ## Citation
 ```
